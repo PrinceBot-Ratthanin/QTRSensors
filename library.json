@@ -1,0 +1,16 @@
+{
+  "name" : "QTRSensors",
+  "title": "Read line position",
+  "keywords": "QTRSensors,qtr, PID, readline, pid,line,PrinceBot",
+  "description": "Sensor making it a great detector for a line-following robot",
+  "git": "https://github.com/PrinceBot-Ratthanin/QTRSensors/",
+  "author": "Pololu | Block by PrinceBot",
+  "email": "Print081@gmail.com",
+  "url": "https://github.com/PrinceBot-Ratthanin/QTRSensors/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32","arduino-avr"],
+  "license": "MIT",
+  "image" : "/static/display.jpg",
+  "homepage": "https://www.pololu.com/docs/0J19/"
+}
